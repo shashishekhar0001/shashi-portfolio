@@ -204,7 +204,7 @@ export default function Portfolio() {
       </section>
 
       <footer className="text-center py-6 text-gray-600 border-t border-gray-800">
-        © {new Date().getFullYear()} Shashi Shekhar | Cloud & AI Engineer
+        © {new Date().getFullYear()} Shashi Shekhar | Cloud & AI Practitioner
       </footer>
     </div>
   );
